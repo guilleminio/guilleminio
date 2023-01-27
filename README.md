@@ -2,10 +2,10 @@
 
 Desarrollador de aplicaciones (y, a veces, juegos)
 
-Estoy terminando la carrera de Ingeniería en Informática.
-Estudié la tecnicatura superior en programación.
+Estudié Ingeniería en Informática.
+Soy TSP y TSSI.
 
-Actualmente me encuentro trabajando en un desarrollo para mi proyecto final basado en las siguientes tecnologías:
+Actualmente me encuentro trabajando en un desarrollo para un proyecto personal basado en las siguientes tecnologías:
 * Android
 * Java
 * Firebase
