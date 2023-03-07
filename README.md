@@ -27,7 +27,12 @@ En relación a los juegos, he trabajado con
 * C++ con Cocos2d
 
 ## Les resumo en lo que actualmente me enfoco...
-<img src="https://skillicons.dev/icons?i=androidstudio,java,react,django,js" />
+<img src="https://skillicons.dev/icons?i=androidstudio,java,spring,react,django,js,python" />
+
+Por supuesto, "el que mucho abarca poco aprieta", por lo tanto, pongo prioridad en:<br><br>
+<img src="https://skillicons.dev/icons?i=java,spring,python" />
+<br>
+
 
 <!--
 **guilleminio/guilleminio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
